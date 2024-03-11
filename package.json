@@ -1,6 +1,6 @@
 {
   "name": "onedionys-color-manipulation",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Color Manipulation) - Functions for manipulating colors such as changing the format, generating random colors, or calculating contrast.",
   "main": "src/colorManipulation.js",
   "directories": {
